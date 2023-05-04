@@ -1,0 +1,11 @@
+[project]
+name = "homemapper"
+version = "0.1.0"
+description = "Homemapper"
+authors = [
+    {name = "Marco Pistilli", email = "pistilli.mrc@gmail.com"},
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
